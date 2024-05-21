@@ -1,0 +1,10 @@
+Product{name='calvin_klein_блуза', type='тениска', price=23.3}
+Product{name='guess_червена_блуза', type='тениска', price=34.3}
+Product{name='calvin_klein_flowers_блуза', type='тениска', price=39.9}
+Product{name='guess_bold_блуза', type='тениска', price=47.7}
+Product{name='calvin_klein_logo_блуза', type='тениска', price=52.9}
+Product{name='guess_блуза', type='тениска', price=54.3}
+Product{name='calvin_klein_червена_блуза', type='тениска', price=54.8}
+Product{name='guess_logo_блуза', type='тениска', price=57.7}
+Product{name='guess_diamonds_блуза', type='тениска', price=62.9}
+Product{name='guess_triangle_tee_дамска_блуза', type='тениска', price=64.2}
